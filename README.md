@@ -8,7 +8,7 @@
 * **Stack:** C# & x86 asm *(Proud Former Vibe Coder)*
   
 
-### 🌐 Connect With Me
+### 🌐 Feel free To Connect With Me
 
 <div align="center">
   <a href="https://www.youtube.com/@IDKDUDE1THING" target="_blank">
