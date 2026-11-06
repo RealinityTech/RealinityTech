@@ -1,15 +1,17 @@
 # Welcome to my github profile!
 
-<!-- Banner Image -->
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Profile Banner" />
+<!-- Your OC Banner Image -->
+<p align="center">
+  <img src="https://githubusercontent.com" width="100%" alt="Profile Banner" />
+</p>
 
-<!-- Social Badges (Generated using Shields.io) -->
+<!-- Social Badges -->
 <p align="left">
-  <a href="https://youtube.com"><img src="https://shields.io" /></a>
-  <a href="YOUR_DISCORD_URL"><img src="https://shields.io" /></a>
-  <a href="YOUR_REDDIT_URL"><img src="https://shields.io" /></a>
-  <a href="YOUR_KHAN_ACADEMY_URL"><img src="https://shields.io" /></a>
-  <a href="YOUR_STEAM_URL"><img src="https://shields.io" /></a>
+  <a href="https://youtube.com" target="_blank"><img src="https://shields.io" /></a>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ### Main languages:
