@@ -4,7 +4,7 @@
 
 ###  About Me
 * **Name:** Realinity (but you can call me **IDKDUDE**)
-* **Interests/Hobbies:**Small digital artist Casual roblox gamer and a  GDI Malware Enthusiast *(for educational purposes, of course!)* 
+* **Interests/Hobbies**:**Small digital artist Casual roblox gamer and a  GDI Malware Enthusiast *(for educational purposes, of course!)**
 * **Languages:** C# & x86 asm *(Proud Former Vibe Coder)*
   
 
