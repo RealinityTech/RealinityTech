@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Welcome+to+my+Github&textBg=false&fontColor=0000FF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=19154&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Welcome+to+my+Github&textBg=false&fontColor=0000FF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=19154+&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60"/>
 <img width="608" height="617" alt="image" src="https://github.com/user-attachments/assets/b87ace86-23b3-4bcf-85df-ed4b31dfa5c4" />
 
 ### About Me
