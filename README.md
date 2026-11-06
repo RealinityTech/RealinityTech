@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
 
-# 👋 Welcome to my GitHub!
+# Welcome to my GitHub!
 
 ### 👤 About Me
 * **Name:** Realinity (but you can call me **IDKDUDE**)
-* **Interests:** GDI Melter enthusiast *(for educational purposes, of course!)* 😉
-* **Stack:** C# & x86 asm *(Proud Vibe Coder)*
+* **Interests:** GDI Melter enthusiast *(for educational purposes, of course!)* 
+* **Stack:** C# & x86 asm *(Proud Former Vibe Coder)*
 
 ---
 
