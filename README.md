@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome to my github profile!
 
-<!--
-**RealinityTech/RealinityTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner Image -->
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Profile Banner" />
 
-Here are some ideas to get you started:
+<!-- Social Badges (Generated using Shields.io) -->
+<p align="left">
+  <a href="https://youtube.com"><img src="https://shields.io" /></a>
+  <a href="YOUR_DISCORD_URL"><img src="https://shields.io" /></a>
+  <a href="YOUR_REDDIT_URL"><img src="https://shields.io" /></a>
+  <a href="YOUR_KHAN_ACADEMY_URL"><img src="https://shields.io" /></a>
+  <a href="YOUR_STEAM_URL"><img src="https://shields.io" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main languages:
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### Main tools:
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
