@@ -7,8 +7,8 @@
 
 <!-- Social Badges -->
 ### Connect with me:
-[![YouTube](https://shields.io)](https://youtube.com)
-[![Discord](https://shields.io)](https://discord.gg/7tQXpb5G6)
+[![YouTube](https://shields.io)](https://www.youtube.com/@IDKDUDE1THING)
+[![Discord](https://shields.io)](https://discord.gg)
 
 ### Main languages:
 ![C#](https://shields.io)
