@@ -1,7 +1,7 @@
-Welcome to my github
-My name is Realinity but you can call me IDKDUDE
-Im a GDI Melter enthusist (For educational purposes ofc)
-I use C# and x86 asm (Vibe Coder)
+1.Welcome to my github
+2.My name is Realinity but you can call me IDKDUDE
+3.Im a GDI Melter enthusist (For educational purposes ofc)
+4.I use C# and x86 asm (Vibe Coder)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
