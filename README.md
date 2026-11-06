@@ -1,4 +1,9 @@
 Welcome to my github
+My name is Realinity but you can call me IDKDUDE
+Im a GDI Melter enthusist (For educational purposes ofc)
+I use C# and x86 asm (Vibe Coder)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
