@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
+<img width="100%" src="https://vercel.app"/>
 
 # Welcome to my GitHub!
 <img width="608" height="617" alt="image" src="https://github.com/user-attachments/assets/b87ace86-23b3-4bcf-85df-ed4b31dfa5c4" />
