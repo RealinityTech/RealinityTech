@@ -1,7 +1,7 @@
 <img width="100%" src="https://vercel.app"/>
 
 # Welcome to my GitHub!
-
+https://github.com/RealinityTech/RealinityTech/blob/main/banner.PNG?raw=true
 ### About Me
 * **Name:** Realinity (but you can call me **IDKDUDE**)
 * **Interests/Hobbies**:Small digital artist , casual roblox gamer and a GDI Malware Enthusiast *(for educational purposes, of course!)*
