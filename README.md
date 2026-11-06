@@ -4,7 +4,7 @@
 
 ###  About Me
 * **Name:** Realinity (but you can call me **IDKDUDE**)
-* **Interests:** GDI Melter enthusiast *(for educational purposes, of course!)* 
+* **Interests:** GDI Malware Enthusiast *(for educational purposes, of course!)* 
 * **Stack:** C# & x86 asm *(Proud Former Vibe Coder)*
   
 
