@@ -9,9 +9,6 @@
 ### Connect with me:
 [![YouTube](https://shields.io)](https://youtube.com)
 [![Discord](https://shields.io)](https://discord.gg/7tQXpb5G6)
-![Reddit](https://shields.io)
-![Khan Academy](https://shields.io)
-![Steam](https://shields.io)
 
 ### Main languages:
 ![C#](https://shields.io)
