@@ -2,7 +2,7 @@
 
 <!-- Your OC Banner Image -->
 <p align="center">
-  <img src="https://github.com" width="100%" alt="Profile Banner" />
+  <img src="https://github.com/RealinityTech/RealinityTech/blob/main/banner.PNG?raw=true" width="100%" alt="Profile Banner" />
 </p>
 
 <!-- Social Badges -->
