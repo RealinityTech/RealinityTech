@@ -6,26 +6,21 @@
 </p>
 
 <!-- Social Badges -->
-<p align="left">
-  <a href="https://youtube.com" target="_blank"><img src="https://shields.io" /></a>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### Connect with me:
+[![YouTube](https://shields.io)](https://youtube.com)
+![Discord](https://shields.io)
+![Reddit](https://shields.io)
+![Khan Academy](https://shields.io)
+![Steam](https://shields.io)
 
 ### Main languages:
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![C#](https://shields.io)
+![x86 ASM](https://shields.io)
 
 ### Main tools:
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Visual Studio](https://shields.io)
+![VS Code](https://shields.io)
+![Notepad++](https://shields.io)
+![GitHub](https://shields.io)
+![Windows](https://shields.io)
+![Linux](https://shields.io)
