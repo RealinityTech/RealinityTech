@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://demolab.com!">
+    <img src="https://demolab.com">
   </a>
 </p>
 
 <div align="center"> 
-  <!-- Replace the src URLs below with your actual GitHub Stats / Top Langs cards -->
+  <!-- Replace YOUR_GITHUB_USERNAME below with your actual username -->
   <img width="49%" height="195px" src="https://vercel.app" />
   <img width="41%" height="195px" src="https://vercel.app" />
 </div>
